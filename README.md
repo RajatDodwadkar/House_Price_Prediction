@@ -16,4 +16,4 @@ Run the code. Vary the alpha value and observe the change in cost function Vs ep
 
 
 step 4 :
-pass the inputs like number of bedrooms, number of rooms, annual income, etc. View the predicted house price. 
+pass the inputs like area, number of rooms, annual income, etc. View the predicted house price. 
