@@ -12,7 +12,7 @@ Pass the path of dataset in the code.
 
 
 step 3 :
-Run the code. Vary the alpha value and observe the change in cost function Vs epochs curve.
+Run the code. Vary the alpha value and observe the change in cost function vs epochs curve.
 
 
 step 4 :
